@@ -56,12 +56,11 @@ jupyter notebook Code.ipynb
 
 ```
 Titanic/
-├── Code.ipynb              # Main analysis notebook
+├── Clean_Code.ipynb              # Main analysis notebook
 ├── data/
 │   ├── train.csv          # Training data
 │   ├── test.csv           # Test data
-│   └── gender_submission.csv
-├── my_submission.csv      # Final predictions
+│   └── gender_submission.csv    
 └── README.md
 ```
 
