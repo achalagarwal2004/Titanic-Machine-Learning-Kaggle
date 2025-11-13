@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic Survival Prediction
 
 Machine learning model to predict passenger survival on the Titanic using Random Forest and other classification algorithms.
@@ -82,3 +83,7 @@ This project is open source and available under the MIT License.
 **Achal Agarwal**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - Kaggle: [Your Kaggle Profile](https://www.kaggle.com/yourusername)
+=======
+# Titanic-Machine-Learning-Kaggle
+This project is a solution to the famous Titanic survival prediction challenge from Kaggle. The goal is to predict whether a passenger survived or not based on features such as age, gender, passenger class, and other attributes.
+>>>>>>> a77e7cbc84d46e01bb3b46ec86f0f97aa207ea76
